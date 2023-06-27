@@ -1,0 +1,15 @@
+ DEBUG [main] - 2022-06-15 20:21:11.323; - (ListenerUtility.java:17) - 
+ DEBUG [main] - 2022-06-15 20:21:11.326; - (ListenerUtility.java:18) - ===============================AUTOMATION TESTING STARTED===============================
+ DEBUG [main] - 2022-06-15 20:21:11.326; - (ListenerUtility.java:19) - 
+ DEBUG [main] - 2022-06-15 20:21:11.330; - (ListenerUtility.java:20) - Started at: Wed Jun 15 20:21:11 EDT 2022
+ DEBUG [main] - 2022-06-15 20:21:11.361; - (CrossBrowserExample.java:41) - The current active browser: chrome
+ DEBUG [main] - 2022-06-15 20:21:11.926; - (ListenerUtility.java:50) - HomePageCheck test case started
+ DEBUG [main] - 2022-06-15 20:21:11.932; - (ListenerUtility.java:43) - The name of the testcase Skipped is: HomePageCheck
+ DEBUG [main] - 2022-06-15 20:21:11.933; - (ListenerUtility.java:50) - SignInCheck test case started
+ DEBUG [main] - 2022-06-15 20:21:11.934; - (ListenerUtility.java:43) - The name of the testcase Skipped is: SignInCheck
+ DEBUG [main] - 2022-06-15 20:21:11.935; - (ListenerUtility.java:50) - SignInCheckWithBadCredential test case started
+ DEBUG [main] - 2022-06-15 20:21:11.935; - (ListenerUtility.java:43) - The name of the testcase Skipped is: SignInCheckWithBadCredential
+ DEBUG [main] - 2022-06-15 20:21:11.936; - (ListenerUtility.java:26) - 
+ DEBUG [main] - 2022-06-15 20:21:11.937; - (ListenerUtility.java:27) - ===============================AUTOMATION TESTING FINISHED===============================
+ DEBUG [main] - 2022-06-15 20:21:11.937; - (ListenerUtility.java:28) - 
+ DEBUG [main] - 2022-06-15 20:21:11.937; - (ListenerUtility.java:29) - Ended at: Wed Jun 15 20:21:11 EDT 2022
